@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "Royal Flush!" der Class "Javascript Grundlage
 </p>
 
 ## Royal Flush
-*Royal Flush* ist eine Applikation, mit deren Hilfe Sie Hände beim Texas Holdem prüfen können. Ziel ist es, zu prüfen, ob eine Hand valide ist. Weiterhin soll es möglich sein, zu prüfen, ob es sich um einen Flush, eine Straße, einen Straight Flush oder einen Royal Flush handelt. Dieses Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Royal Flush* ist eine Applikation, mit deren Hilfe Sie Hände beim Texas Holdem prüfen können. Ziel ist es, zu prüfen, ob eine Hand valide ist. Weiterhin soll es möglich sein, zu prüfen, ob es sich um einen Flush, eine Straße, einen Straight Flush oder einen Royal Flush handelt. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
 
 ## Demo
 
