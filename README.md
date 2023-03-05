@@ -10,5 +10,3 @@ Template für die Einsendeaufgabe "Royal Flush!" der Class "Javascript Grundlage
 
 Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://terminal.webmasters.dev/">https://terminal.webmasters.dev/</a>
 
-![royalFlush](https://user-images.githubusercontent.com/42392570/110471237-31b46b00-80dc-11eb-92a9-3da508211715.gif)
-
